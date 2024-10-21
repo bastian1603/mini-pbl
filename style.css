@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+
+    width: 100vw;
+    height: 100vh;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.fl-cn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.al-cn {
+    text-align: center;
+}
+
+.container {
+    width: 50%;
+}
+
+.form-login {
+    flex-direction: column;
+}
+
+.text {
+    padding: 10px;
+
+    text-align: center;
+}
